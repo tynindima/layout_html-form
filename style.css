@@ -1,11 +1,7 @@
 body {
-  width: 98.5%;
+  /* width: 98.5%; */
   margin-left: auto;
   margin-right: auto;
-}
-
-#number {
-  width: 3em;
 }
 
 .fields {
