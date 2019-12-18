@@ -1,0 +1,21 @@
+body {
+  width: 98.5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#number {
+  width: 3em;
+}
+
+.fields {
+  margin-bottom: 20px;
+}
+
+.inputs {
+  margin-bottom: 10px;
+}
+
+.inputs:last-child {
+  margin-bottom: 0;
+}
